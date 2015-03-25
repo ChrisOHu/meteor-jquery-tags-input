@@ -9,7 +9,7 @@ Package.onUse(function(api) {
   api.use('jquery', 'client');
 
   api.addFiles([
-    'lib/jQuery-Tags-Input/jquery.tagsinput.js',
-    'lib/jQuery-Tags-Input/jquery.tagsinput.css',
+    'lib/jQuery-Tags-Input/src/jquery.tagsinput.js',
+    'lib/jQuery-Tags-Input/src/jquery.tagsinput.css',
   ], 'client');
 });
