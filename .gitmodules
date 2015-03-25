@@ -1,0 +1,3 @@
+[submodule "lib/jQuery-Tags-Input"]
+	path = lib/jQuery-Tags-Input
+	url = git@github.com:ShawnOceanHu/jQuery-Tags-Input.git
