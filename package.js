@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'up:jQuery-tags-input',
+  name: 'up:jquery-tags-input',
   version: '0.0.1',
   summary: 'xoxco\'s jquery-tags-input',
   git: 'git@github.com:ShawnOceanHu/jQuery-Tags-Input.git'
