@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.use('jQuery', 'client');
+  api.use('jquery', 'client');
 
   api.addFiles([
     'lib/jQuery-Tags-Input/jquery.tagsinput.js',
